@@ -11,4 +11,4 @@ Hi
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/oslo_vv) 
 
 !Github stats 1 
- <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishylol&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>![image](https://github.com/Ishylol/Ishylol/assets/104301778/16739039-552a-4916-9938-1934c26bd143)
+ <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishylol&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
