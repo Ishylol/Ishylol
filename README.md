@@ -8,7 +8,7 @@ Hi
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://www.github.com/Ishylol) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/oslo_vv) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/dehainc) 
 
 !Github stats 1 
  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishylol&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
